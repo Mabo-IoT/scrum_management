@@ -1,3 +1,5 @@
+# [a more better version](http://scrumreferencecard.com/scrum-%E5%8F%82%E8%80%83%E5%8D%A1/)
+
 # 定义
 - ### transparency 透明化
 - ### inspection 查看 跟踪
