@@ -117,25 +117,25 @@
     - ### 主要用于scrum流程的改进与scrum团队的建设
 
 # scrum artifacts
-    - ### product backlog
-        - 整个项目需要完成的进度，product owner对此负责，包括项目内容，可实施性，可操作性以及项目优先级
-        - product backlog（项目进度需求）nerver complete！！项目需求是动态的！！
-        - 优化工作不超过10%
-        - development team 负责所有工作的完成
-    - ### monitoring progress toward goals
-        - 燃尽图等可视化工具有助于进度的管理，但是还是要依靠经验，因为在复杂环境下，谁也无法预料即将发生的事情，但是发生过的事情可以用作未来的参考
+- ### product backlog
+    - 整个项目需要完成的进度，product owner对此负责，包括项目内容，可实施性，可操作性以及项目优先级
+    - product backlog（项目进度需求）nerver complete！！项目需求是动态的！！
+    - 优化工作不超过10%
+    - development team 负责所有工作的完成
+- ### monitoring progress toward goals
+    - 燃尽图等可视化工具有助于进度的管理，但是还是要依靠经验，因为在复杂环境下，谁也无法预料即将发生的事情，但是发生过的事情可以用作未来的参考
 
-    - ### sprint backlog
-        - 区别于product backlog， 一个追踪整体项目，一个追踪一个sprint里的进度
-        - sprint backlog细节要丰富，即每一步都有所记录和体现
-        - 只有开发团队能改变sprint backlog
+- ### sprint backlog
+    - 区别于product backlog， 一个追踪整体项目，一个追踪一个sprint里的进度
+    - sprint backlog细节要丰富，即每一步都有所记录和体现
+    - 只有开发团队能改变sprint backlog
 
-    - ### monitoring sprint progress
-        - 任何时间内，都能清晰地看到sprint backlog的总数
-        - development team 通过追踪backlog，可以追踪项目的进度
-    - ### increment
-        - 项目进度增量是现在sprint和以前sprint完成的全部增量
-        - 增量需可视化
+- ### monitoring sprint progress
+    - 任何时间内，都能清晰地看到sprint backlog的总数
+    - development team 通过追踪backlog，可以追踪项目的进度
+- ### increment
+    - 项目进度增量是现在sprint和以前sprint完成的全部增量
+    - 增量需可视化
 
 # artifact transparency
 - scrum 依赖透明化，所以必须要一起努力做到透明化
